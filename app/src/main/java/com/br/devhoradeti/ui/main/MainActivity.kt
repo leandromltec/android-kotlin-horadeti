@@ -1,7 +1,12 @@
-package com.br.devhoradeti
+
+/* Desenvolvido por Leandro M. Loureiro */
+/* Linkedin - https://www.linkedin.com/in/leandro-loureiro-9921b927/ */
+
+package com.br.devhoradeti.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.br.devhoradeti.R
 
 class MainActivity : AppCompatActivity() {
 
